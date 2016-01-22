@@ -9,5 +9,6 @@ from the raw indicator data.
 - `slides`: repository of example scorecard slides.
 
 ## Example Slide
+Below is an example immunization coverage slide for the municipality of Banfora:
 
 ![Banfora Slide 6](https://github.com/boyercb/PACT-Burkina-Faso/blob/master/slides/BANFORA_06.png)
