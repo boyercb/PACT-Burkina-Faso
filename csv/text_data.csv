@@ -1,0 +1,91 @@
+indicator,left,right,title
+CEP_admission,"Les municipalités doivent s’assurer que tous les
+enfants réussissent le certificate d’études au 
+premier essai.","En 2013, sous le précédent gouvernement
+municipal élu, [v]% des enfants de [commune name]
+ avaient réussi le CEP au premier essai. 
+
+Sur [X] communes de la région, [Y] municipalités
+avaient un plus grand nombre d’enfants 
+réussissant le CEP au premier essai. ",ADMISSION AU CERTIFICAT D’ETUDES PRIMAIRES
+school_supplies,"Les municipalités doivent s’assurer que les 
+écoles reçoivent les fournitures scolaires à 
+temps pour la rentrée scolaire.","En 2013, sous le précédent gouvernement municipal
+élu, les fournitures scolaires sont arrivées avec [v] 
+jours de retard après la rentrée.
+
+Sur [X] communes de la région, [Y] municipalités 
+avaient vu leurs écoles recevoir leurs fournitures 
+scolaires plus tôt.","RETARD D’APPROVISIONNEMENT 
+EN FOURNITURES SCOLAIRES"
+school_water_source,"Les municipalités doivent s’assurer que toutes 
+les écoles ont une source d’eau potable pour
+les élèves.","En 2013, sous le précédent gouvernement municipal
+élu, [v]% des écoles de [commune name] avaient 
+accès à l’eau potable.
+
+Sur [X] communes de la région, [Y] municipalités 
+avaient des écoles avec un plus grand accès à l’eau 
+potable.",EAU POTABLE A L’ECOLE
+school_latrines,"Les municipalités doivent s’assurer que toutes
+les écoles ont au moins une latrine par classe.","En 2013, sous le précédent gouvernement municipal 
+élu, [v]% des écoles de [commune name] avaient des
+latrines fonctionnelles pour chaque classe.
+
+Sur [X] communes de la région, [Y] municipalités 
+avaient des écoles avec un plus grand nombre de 
+latrines fonctionnelles pour chaque classe.",LATRINES FONCTIONNELLES A L’ECOLE
+assisted_delivery,"Les municipalités doivent s’assurer que la 
+naissance d’un enfant soit assisté par du 
+personnel de santé formé.","En 2013, sous le précédent gouvernement municipal 
+élu, [v]% des accouchements de [commune name] 
+avaient été assistés par du personnel de santé.
+
+Sur [X] communes de la région, [Y] municipalités 
+avaient un plus grand nombre d’accouchements 
+assistés par du personnel de santé.",ACCOUCHEMENTS ASSISTES
+vaccinated_infants,"Les municipalités doivent s’assurer que tous les
+nourrissons agés de 0 à 11 mois soient vaccinés 
+contre les maladies.","En 2013, sous le précédent gouvernement municipal 
+élu, [v]% des nourrissons de [commune name] 
+avaient été vaccinés.
+
+Sur [X] communes de la région, [Y] municipalités 
+avaient un plus grand nombre de nourrissons 
+vaccinés. ",NOURRISSONS VACCINES
+CSPS_gas,"Les municipalités doivent s’assurer que tous les
+CSPS ont un stock de gas suffisant pour 
+conserver les medicaments et vaccins au frais.","En 2013, sous le précédent gouvernement municipal 
+élu, [v]% des CSPS de [commune name] avaient reçu 
+un stock de gas suffisant.
+
+Sur [X] communes de la région, [Y] municipalités 
+avaient un plus grand nombre de CSPS ayant reçu un 
+stock de gas suffisant.  ","STOCK DE GAS DES CENTRES
+DE SANTE ET DE PROMOTION SOCIAL"
+pop_water_source,"Les municipalités doivent s’assurer que pour 
+chaque 300 personnes, il y a un forage à moins 
+d’un kilomètre.","En 2013, sous le précédent gouvernement municipal 
+élu, [v]% personnes de [commune name] avaient 
+accès à un forage fonctionnel.
+
+Sur [X] communes de la région, [Y] municipalités 
+avaient un meilleur accès à un forage fonctionnel.  ","ACCES PROCHE A L’EAU POTABLE 
+POUR LA POPULATION"
+birth_certificate,"Les municipalités doivent s’assurer que tous les
+enfants nés ont un acte de naissance.","En 2013, sous le précédent gouvernement municipal 
+élu, [v]% des enfants nés de [commune name] 
+avaient reçu un acte de naissance.
+
+Sur [X] communes de la région, [Y] municipalités 
+avaient un plus grand nombre d’acte de naissance 
+délivrés.   ",ACTES DE NAISSANCES DELIVRES
+summary,"Les municipalités doivent assurer les services 
+mentionnés précédemment. Une note est 
+donnée basée sur la performance de votre 
+precedent gouvernement municipal élu. ","En 2013, sous le précédent gouvernement municipal 
+élu, [commune name] a reçu une note de [v] sur 140 
+points sur ses performances.
+
+Sur [X] communes de la région, [Y] municipalités 
+avaient reçu une meilleur note.   ",RESUME
