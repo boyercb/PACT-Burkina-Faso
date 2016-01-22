@@ -10,4 +10,4 @@ from the raw indicator data.
 
 ## Example Slide
 
-![Banfora Slide 6](https://github.com/boyercb/PACT-Burkina-Faso/slides/BANFORA_06.png)
+![Banfora Slide 6](https://github.com/boyercb/PACT-Burkina-Faso/blob/master/slides/BANFORA_06.png)
