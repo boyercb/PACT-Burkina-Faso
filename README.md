@@ -4,8 +4,9 @@ from the raw indicator data.
 
 ## File Structure
 - `csv`: aggregated data of 10 administrative performance indicators for 140 municipalities in Burkina Faso.
-- `img`: repository of imaeg files used to build the scorecard slides.
+- `img`: repository of image files used to build the scorecard slides.
 - `R`: code to automate reshaping and plotting the indicator data on scorecard slides for each municipality.
+- `python`: code to pre-process and standardize image files before adding to slide.
 - `slides`: repository of example scorecard slides.
 
 ## Example Slide
